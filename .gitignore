@@ -1,0 +1,3 @@
+config/*
+*.sw*
+node_modules/*
